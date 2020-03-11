@@ -1,4 +1,4 @@
-# Sandbox for C#
+# Sandbox
 
 ## License
 
